@@ -8,7 +8,7 @@ const footer = () => {
   return (
     <div className="w-full mx-auto bg-black py-16 px-4 grid lg:grid-cols-3 gap-8 text-white">
       <div>
-        <h1 className="w-full text-3xl font-bold text-[#00df9a]">SANJOG.</h1>
+        <h1 className="w-full text-3xl font-bold text-[#00df9a]">REACT.</h1>
         <p className="py-4">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
           voluptate, consectetur numquam natus quam amet atque eveniet impedit
