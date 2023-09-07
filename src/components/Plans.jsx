@@ -7,7 +7,7 @@ export default function Plans() {
   return (
     <div className="py-[100px] px-2">
       <div className="max-w-[1240px] mx-auto md:grid grid-cols-3 gap-12">
-        {/* First container ------------------------------------------------------------------------------------------------- */}
+        {/* First container ------------------------------------------------------------------------------------------------ */}
 
         <div className="shadow-2xl h-[500px] relative my-4 hover:scale-105 duration-500">
           <div>
@@ -17,7 +17,7 @@ export default function Plans() {
               className="w-[150px] h-[100px] mx-auto justify-center px-2"
             />
             <h2 className="text-2xl font-bold text-center py-8">
-              Web development
+              Web developer
             </h2>
             <p className="text-center text-4xl font-bold">$149</p>
             <div className="text-center font-medium">
@@ -30,7 +30,7 @@ export default function Plans() {
             </button>
           </div>
         </div>
-        {/* Second Container -------------------------------------------------------------------------------------------- */}
+        {/* Second Container ---------------------------------------------------------------------------------------------- */}
 
         <div className="shadow-2xl h-[500px] my-4 bg-gray-100 hover:scale-105 duration-500">
           <div>

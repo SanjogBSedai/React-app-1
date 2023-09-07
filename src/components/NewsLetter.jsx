@@ -9,7 +9,7 @@ export default function NewsLetter() {
             Want to learn latest I.T skills?
           </h1>
           <span className="text-white">
-            Sign up to our newspaper and stay up to date.
+            You can sign up to our newspaper and stay up to date.
           </span>
         </div>
         <div className="m-2">

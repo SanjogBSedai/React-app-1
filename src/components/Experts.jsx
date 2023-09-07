@@ -17,10 +17,10 @@ export default function Experts() {
         <p className="my-2">
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi
           dolore, ipsum cum voluptates nesciunt ratione. Iure fugit, ducimus
-          officiis distinctio ex numquam itaque laboriosam autem ab aperiam quis
-          rem? Assumenda laboriosam, temporibus ducimus odit explicabo
-          dignissimos qui quia architecto, ad aspernatur sed? Natus nostrum
-          totam repellendus ipsum alias? Quasi, ut!
+          officiis distinctio ex numquam Lorem, ipsum. laboriosam autem ab
+          aperiam quis rem? Assumenda laboriosam, temporibus ducimus odit
+          explicabo dignissimos qui quia architecto, ad aspernatur sed? Natus
+          nostrum totam repellendus ipsum alias? Quasi, Lorem, ipsum dolor.
         </p>
         <button className="w-[30%] bg-black text-[#00df9a] p-3 rounded">
           Get started

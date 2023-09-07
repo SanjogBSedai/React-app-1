@@ -15,7 +15,7 @@ export default function Banner() {
           Learn
           <Typed
             className="pl-2"
-            strings={["WebDevelopment", "BuildingWebsite", "AsDeveloper"]}
+            strings={["WebDeveloper", "BuildingWebsite", "AsDeveloper"]}
             typeSpeed={80}
             loop={true}
             backSpeed={50}
