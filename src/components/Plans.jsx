@@ -71,7 +71,6 @@ export default function Plans() {
               <p className="border-b py-2 mx-8">1 Granted User</p>
               <p className="border-b py-2 mx-8">Send upto 2GB</p>
             </div>
-
             <button className="bg-[#00DF9a] w-[200px] font-medium rounded mt-5 l:{mb-8 px-6 py-3 ml-[100px]} mx-[100px]">
               Start Trial
             </button>
