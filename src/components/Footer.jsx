@@ -57,7 +57,7 @@ const footer = () => {
             <li className="py-2 text-sm">Policies</li>
             <li className="py-2 text-sm">Terms</li>
           </ul>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusamus illo quas magni veritatis non, beatae laboriosam laudantium deserunt voluptas debitis velit perferendis ipsam, libero maxime aut eveniet voluptatum tenetur, tempore autem fugiat consequuntur! Doloribus eum reiciendis unde nulla, veniam error commodi, animi nostrum dolor corrupti, nobis incidunt tenetur voluptate ipsum omnis nisi corporis consequuntur ducimus. Sunt eveniet iure nostrum blanditiis neque esse facilis obcaecati quae. Pariatur reiciendis voluptatem facilis distinctio deserunt rerum ex, optio nemo natus laborum quas ipsam? Deserunt quos iure, aperiam inventore impedit, suscipit, quas omnis debitis a quisquam error cupiditate! Mollitia possimus aspernatur suscipit, voluptas odit dignissimos?
+          
         </div>
       </div>
     </div>
