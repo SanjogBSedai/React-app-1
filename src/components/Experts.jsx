@@ -25,7 +25,6 @@ export default function Experts() {
         <button className="w-[30%] bg-black text-[#00df9a] p-3 rounded">
           Get started
         </button>
-        
       </div>
     </div>
   );
